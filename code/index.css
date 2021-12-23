@@ -1,0 +1,20 @@
+#root{
+    margin:auto;
+    width: 60%;
+
+}
+#navbar {
+    color:rgb(35, 53, 212);
+    padding:20px;
+    font-size: 40px;
+    text-align:center;
+    background-color: rgb(255, 107, 132);
+}
+img {
+    width: 120px;
+}
+#box{
+    text-align:center;
+    font-size: 20px;
+    background-color: beige;
+}
